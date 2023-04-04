@@ -1,0 +1,8 @@
+hamza,12,hamzailyas@gmail.com,03340019111,student
+mehreen,12,mehreen@gmal.com,03116992213,student
+ali,12,ali@gmail.com,03340019112,student
+ahmad,12,ah@gmail.com,23270917,student
+hammad,12,hammad@gmail.com,03214165217,admin
+muneeb,5555,munrrb@gml.unb,032255667788,admin
+alpha,1001,ppp@email.com,0000000000,student
+abdullah,123,abd@gmail.com,03121721656,admin
